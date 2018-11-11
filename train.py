@@ -7,7 +7,6 @@ from tensorflow.examples.tutorials.mnist import input_data
 
 sys.path.append('.')
 import vae
-#import VAE.vae as vae
 
 mnist = input_data.read_data_sets("./data/MNIST_data/", one_hot=True)
 
