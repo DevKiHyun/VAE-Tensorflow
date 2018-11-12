@@ -44,3 +44,4 @@ python main.py --training_epoch 300 --z_dim 40 --batch_size 64 --learning_rate 0
 
 ## Reference
 [오토인코더의 모든것('All of autoencoder')](https://www.youtube.com/watch?v=o_peo6U7IRM&feature=youtu.be)
+[Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
