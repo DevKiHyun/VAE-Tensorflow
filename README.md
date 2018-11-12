@@ -1,6 +1,6 @@
 # VAE-Tensorflow (2018/11/11)
 ## Introduction
-I implement a tensorflow model of a Variational Autoencoder for this paper[[by kingma]](https://arxiv.org/abs/1312.6114)
+I implement a tensorflow model of a Variational Autoencoder for this paper[[Auto-Encoding Variational Bayes - by kingma]](https://arxiv.org/abs/1312.6114)
 - I use mnist dataset as training dataset.
 
 ## Environment
