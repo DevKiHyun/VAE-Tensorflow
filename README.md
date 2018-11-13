@@ -14,7 +14,7 @@ I implement a tensorflow model of a Variational Autoencoder for this paper[[Auto
 ## Files
 - vae.py : Model definition.
 - main.py : Execute training and pass the default value.
-- train.py : Train code.
+- train.py : Training code.
 
 ## How to use
 ### Training
