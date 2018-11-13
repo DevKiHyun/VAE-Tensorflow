@@ -12,8 +12,9 @@ I implement a tensorflow model of a Variational Autoencoder for this paper[[Auto
 - matplotlib
 
 ## Files
-- fcnae.py : Model definition.
-- main.py : Train the model and pass the default value.
+- vae.py : Model definition.
+- main.py : Execute training and pass the default value.
+- train.py : Train code.
 
 ## How to use
 ### Training
